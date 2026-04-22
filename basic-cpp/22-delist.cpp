@@ -123,15 +123,11 @@ public:
     iterator insert(iterator pos, const T& value) {
         Node<T>* current = pos.node_ptr;
         Node<T>* new_node = new Node<T>(value);
-
         Node<T>* prev_node = current->prev;
-
         new_node->next = current;
         new_node->prev = prev_node;
-
         prev_node->next = new_node;
         current->prev = new_node;
-
         return iterator(new_node);
     }
 
