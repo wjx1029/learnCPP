@@ -336,7 +336,7 @@ void ex3()
 }
 
 /*
-
+std::unique_ptr 是一种独占所有权的智能指针，确保在任意时刻，只有一个 unique_ptr 实例指向特定资源。它不支持拷贝操作，只支持移动操作。
 */
 
 template <typename T>
