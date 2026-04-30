@@ -1,0 +1,8 @@
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/mymath_static.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/mymath_shared.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/edit_cache.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/rebuild_cache.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/list_install_components.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/install.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/install/local.dir
+/home/sean/learnCPP/basic-cpp/33-library/MathLib/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,3 @@
+/home/sean/learnCPP/basic-cpp/33-library/MyApp/build/CMakeFiles/MyApp.dir
+/home/sean/learnCPP/basic-cpp/33-library/MyApp/build/CMakeFiles/edit_cache.dir
+/home/sean/learnCPP/basic-cpp/33-library/MyApp/build/CMakeFiles/rebuild_cache.dir
