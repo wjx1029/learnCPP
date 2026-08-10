@@ -1,6 +1,6 @@
 # 同时构建静态库和动态库
 
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.10)
 project(MyMathLib)
 
 # 定义宏用于导出符号（仅在 Windows 平台）
